@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "93a4cfb3-9604-0941-950d-6f3f21812717++2210",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "93a4cfb3-9604-0941-950d-6f3f21812717++2210" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "93a4cfb3-9604-0941-950d-6f3f21812717++2210" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A61F9D00-FB10-4267-A6C1-A5C4CFE28451",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "93a4cfb3-9604-0941-950d-6f3f21812717++2210" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "02-黑马音乐",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "02-黑马音乐\/02-黑马音乐.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.41.213.192:8443\/ds\/VER_ZXCSFTTS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93a4cfb3-9604-0941-950d-6f3f21812717++2210"
+    }
+  ]
+}
